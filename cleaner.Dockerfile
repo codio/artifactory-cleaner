@@ -8,7 +8,7 @@ RUN apk update && \
 RUN (echo '{' \
 && echo '    "artifactory": {' \
 && echo '        "url": "http://artifactory.int.codio.com:8081/artifactory",' \
-&& echo '        "auth": "maven:qOwTInzY_4ocuwy0ph_GBhKO0"' \
+&& echo '        "auth": "maven1:aJ47NcqldGLgVYwVoU_kbzWnYjbZ5YPa"' \
 && echo '    },' \
 && echo '    "repos": [' \
 && echo '        {' \
